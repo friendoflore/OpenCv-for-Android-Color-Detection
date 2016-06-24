@@ -11,4 +11,4 @@ This program accompanies the tutorial linked below, showing detailed instruction
 * Process color in image on touch event
 
 
-http://people.oregonstate.edu/~robinsti/CS_496/Tutorial/
+http://timrobinson.space
